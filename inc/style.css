@@ -40,7 +40,6 @@ header h1{
 
 }
 
-
 .massege-block{
 	background-color: yellow;
 	padding: 10px;
@@ -48,6 +47,7 @@ header h1{
 	margin-bottom: 10px;
 	border: 1px solid #990033;
 }
+
 .ui-close{
 	background: red;
 	display: inline-block;
