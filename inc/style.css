@@ -11,6 +11,9 @@ a{
 	padding: 15px;
 	display: block;
 }
+p{
+	color: #333;
+}
 
 .container{
 	max-width: 1170px;
@@ -33,6 +36,27 @@ header h1{
 	min-height: 500px;
 	padding-left: 15px;
     padding-right: 15px; 
+    padding-top: 15px; 
 
 }
 
+
+.massege-block{
+	background-color: yellow;
+	padding: 10px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	border: 1px solid #990033;
+}
+.ui-close{
+	background: red;
+	display: inline-block;
+	float: right;
+	padding: 5px;
+}
+
+.ui-close:hover{
+	background-color: #a1a1a1;
+	color: #fff;
+	cursor: pointer;
+}
