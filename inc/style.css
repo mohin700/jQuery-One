@@ -1,0 +1,38 @@
+*{
+	margin: 0;
+	padding: 0;
+	line-height: 100%;
+}
+
+h1,h2,h3,h4,h5,h6{color: #333;}
+a{
+	color: #666;
+	text-decoration: none;
+	padding: 15px;
+	display: block;
+}
+
+.container{
+	max-width: 1170px;
+	margin: 0 auto;
+	border: 3px solid #eee;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -moz-webkit-sizing: border-box;
+
+}
+
+
+header{background-color: #eee;padding: 0 15px;}
+footer{background-color: #eee;padding: 0 15px;}
+
+header h1{
+	padding: 15px;
+}
+.main-section{
+	min-height: 500px;
+	padding-left: 15px;
+    padding-right: 15px; 
+
+}
+
